@@ -5,7 +5,8 @@
 
 ## Lecture 0
 
-
+git??
+vsc??
 
 
 
